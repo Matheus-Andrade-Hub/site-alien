@@ -2,20 +2,20 @@
 
 @font-face {
     font-family: alienigena;
-    src: url(../fontes/alm_____.ttf);
+    src: url("../fontes/alm_____.ttf");
     font-weight: bold;
 }
 
 @font-face {
     font-family: babydoll;
-    src: url(../fontes/Baby\ Doll.otf);
+    src: url("../fontes/Baby\ Doll.otf");
     font-weight: bold;
 }
-
+"
 @font-face {
     font-family: estrangeira;
-    src: url(../fontes/stray.ttf);
-    font-weight: bold
+    src: url("../fontes/stray.ttf");
+    font-weight: bold;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
